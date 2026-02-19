@@ -10,7 +10,6 @@ export default function SearchFilter({
             // in here we should make its function by event 
             onChange={(e)=>setSearch(e.target.value)}
             />
-            {/* in here we add select option*/}
             <select
             value={region}
             onChange={(e)=>setRegion(e.target.value)}
