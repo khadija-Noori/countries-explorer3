@@ -37,4 +37,4 @@ A React app to explore countries with search and filter functionality.
 ![Home](screenshot/homescreen.png.png)
 
 ### Search Results
-![Results](screenshots/results.png)
+![Results](screenshot/result.png)
